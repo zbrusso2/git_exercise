@@ -8,7 +8,7 @@ Step 2) Clone to repository to your machine
 
 Step 3) Use your favorite text editor to edit the file
 
-Step 4) Commit and push the new file back to your repository
+Step 4) Add, commite, and push the new file back to your repository
 
 Step 5) Send a pull request to the project owner
 
