@@ -30,5 +30,13 @@
 		"major": "Computer Science/Statistics and Psychology",
 		"age": "20",
 		"github_handle": "lilysellers"
+	},
+		{
+		"name": "Ace Nassri",
+		"netid": "nassri2",
+		"grade": "Junior",
+		"major": "Computer Science",
+		"age": "19",
+		"github_handle": "ace-n"
 	}
 ]
