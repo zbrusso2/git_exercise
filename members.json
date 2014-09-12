@@ -14,5 +14,13 @@
 		"major": "Who knows",
 		"age": "21",
 		"github_handle": "CJS7070"
+	},
+	{
+		"name": "Eric Ahn",
+		"netid": "ericahn3",
+		"grade": "Sophomore",
+		"major": "Computer Science",
+		"age": "19",
+		"github_handle": "wchill"
 	}
 ]
