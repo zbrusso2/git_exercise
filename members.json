@@ -22,5 +22,14 @@
 		"major": "Computer Science",
 		"age": "19",
 		"github_handle": "wchill"
+	},
+	{
+		"name": "Lily Sellers",
+		"netid": "lseller2",
+		"grade": "Junior",
+		"major": "Computer Science/Statistics and Psychology",
+		"age": "20",
+		"github_handle": "lilysellers"
 	}
+]
 ]
