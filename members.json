@@ -38,5 +38,13 @@
 		"major": "Computer Science",
 		"age": "19",
 		"github_handle": "ace-n"
-	}
+	},
+	{
+		"name": "David Zmick",
+		"netid": "zmick2",
+		"grade": "Junior",
+		"major": "Computer Science",
+		"age": "20",
+		"github_handle": "dpzmick"
+	},
 ]
