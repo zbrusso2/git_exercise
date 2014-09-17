@@ -47,4 +47,12 @@
 		"age": "20",
 		"github_handle": "dpzmick"
 	},
+	{
+		"name": "Michael Meyer",
+		"netid": "mnmeyer2",
+		"grade": "Freshman",
+		"major": "Computer Science",
+		"age": "18",
+		"github_handle": "voltomeyer"
+	},
 ]
